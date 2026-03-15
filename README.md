@@ -4,7 +4,7 @@
 本项目是一款面向高校学生的**AI情绪管理与心理陪伴应用**，以“情绪感知 + AI陪伴 + 行为闭环”为核心，帮助用户自我监测情绪变化、建立健康习惯、并在低落时获得即时支持。
 
 <div align="center">
-  <img src="./result/demo.mp4" alt="厦大心语核心功能演示" width="75%">
+  <img src="./result/demo.gif" alt="厦大心语核心功能演示" width="75%">
   <br/>
   <small><i>🎬 “厦大心语”核心功能演示</i></small>
 </div>
