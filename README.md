@@ -272,9 +272,6 @@ npm run build
 - 此刻星球：[src/pages/PlanetPage.jsx](src/pages/PlanetPage.jsx)
 - 能量规划仪：[src/pages/EnergyPlannerPage.jsx](src/pages/EnergyPlannerPage.jsx)
 
-## 免责声明
-本项目用于学习研究、课程设计与竞赛展示，暂不作为医疗诊断或治疗工具。示例素材与测试数据仅用于*非商业演示*。
-
 ## 许可证
 MIT License。见 [LICENSE.txt](LICENSE.txt)。
 
