@@ -1,0 +1,25 @@
+{
+  "sourceDir": "D:\\A_Studying\\StudyForWork\\A_work_03_15\\XiaDaXinYu\\XiaDaXinYu_develop\\resource\\knowledges",
+  "sourceFiles": [
+    "D:\\A_Studying\\StudyForWork\\A_work_03_15\\XiaDaXinYu\\XiaDaXinYu_develop\\resource\\knowledges\\精神障碍诊疗规范.pdf"
+  ],
+  "sources": [
+    {
+      "source": "D:\\A_Studying\\StudyForWork\\A_work_03_15\\XiaDaXinYu\\XiaDaXinYu_develop\\resource\\knowledges\\精神障碍诊疗规范.pdf",
+      "sourceName": "精神障碍诊疗规范.pdf",
+      "numPages": 492,
+      "chunkCount": 505,
+      "extractedCharCount": 310704,
+      "warning": null
+    }
+  ],
+  "chunksFile": "D:\\A_Studying\\StudyForWork\\A_work_03_15\\XiaDaXinYu\\XiaDaXinYu_develop\\server\\kb\\index\\clinical-guideline.chunks.jsonl",
+  "chunkCount": 505,
+  "extractedCharCount": 310704,
+  "numPages": 492,
+  "chunkSize": 900,
+  "chunkOverlap": 180,
+  "warning": null,
+  "builtAt": "2026-03-23T16:38:19.232Z",
+  "durationMs": 1014
+}
