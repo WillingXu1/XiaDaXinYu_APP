@@ -9,7 +9,7 @@
 ## 动图展示
 
 <div align="center">
-  <img src="./result/demo.gif" alt="厦大心语核心功能演示" width="30%">
+  <img src="./result/demo.gif" alt="厦大心语核心功能演示" width="25%">
   <br/>
   <small><i>🎬 “厦大心语”核心功能演示</i></small>
 </div>
