@@ -9,13 +9,13 @@
 ## 动图展示
 
 <div align="center">
-  <img src="./result/demo.gif" alt="厦大心语核心功能演示" width="25%">
+  <img src="./result/demo.gif" alt="厦大心语核心功能演示" width="30%">
   <br/>
   <small><i>🎬 “厦大心语”核心功能演示</i></small>
 </div>
 
 <div align="center">
-  <img src="./result/demo2.gif" alt="厦大心语agent决策过程展示" width="75%">
+  <img src="./result/demo2.gif" alt="厦大心语agent决策过程展示" width="85%">
   <br/>
   <small><i>🎬 “厦大心语”Agent 决策过程展示</i></small>
 </div>
